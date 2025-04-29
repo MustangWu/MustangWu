@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Master of IT @ Monash University (Graduating June 2025)  
+- 🎓 Master of IT @ Monash University (Graduating June 2026)  
 - 🌏 Previously majored in humanities, now exploring how **technology empowers human expression**
 - 💻 Focused on **Full-Stack Development**, **Cloud Computing (AWS)**, and **AI for good**
 - 🎮 Interested in game-like interfaces, digital storytelling, and creative tools
@@ -15,9 +15,9 @@
 ### 💼 What I’ve Been Up To
 
 - 👩‍🔬 Research Intern @ Exertion Games Lab — building interactive devices for para-surfing
-- 🧠 Hackathon Winner x3 — fast learning, pitching, and shipping high-impact projects
+- 🧠 Hackathon Team Lead x3 — fast learning, pitching, and shipping high-impact projects
 - 🏢 Part-time at Zimmermann, blending tech & fashion service
-- 🧰 Previous work in the **real estate** industry with 5i5j (我爱我家)
+- 🧰 Previous work in the **real estate** industry with 5i5j (我爱我家) and **entertainment** industry with iQIYI.com (爱奇艺)
 
 ---
 
@@ -40,8 +40,7 @@
 ### 🎨 Fun Facts
 
 - ✈️ Originally from China, now chasing tech dreams in Australia  
-- 🐱 A cat lover & pixel art fan  
-- ☕ My go-to coffee is a **long black with a splash of oat milk**
+- 🎸 unusual busker in melbourne central
 - ✨ Motto: *Where humanity meets technology, I create my own path*
 
 ---
