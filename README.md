@@ -42,7 +42,7 @@
 - ✈️ Originally from China, now chasing tech dreams in Australia  
 - 🎸 Unusual busker in melbourne central
 - 🎬 Actress&writer for short film "Lost in Shanghai(2022)" which won hishorts! film festival 2023, same name feature is currently in development.
-- ✨ Motto: *Where humanity meets technology, I create my own path*
+- ✨ *Where humanity meets technology, I create my own path*
 
 ---
 
