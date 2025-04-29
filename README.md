@@ -14,8 +14,8 @@
 
 ### 💼 What I’ve Been Up To
 
-- 👩‍🔬 Research Intern @ Exertion Games Lab — building interactive devices for para-surfing
-- 🧠 Hackathon Team Lead x3 — fast learning, pitching, and shipping high-impact projects
+- 👩‍🔬 Research Intern @ Exertion Games Lab, building interactive devices for para-surfing
+- 🧠 Hackathon Team Lead x3, fast learning, pitching, and shipping high-impact projects
 - 🏢 Part-time at Zimmermann, blending tech & fashion service
 - 🧰 Previous work in the **real estate** industry with 5i5j (我爱我家) and **entertainment** industry with iQIYI.com (爱奇艺)
 
