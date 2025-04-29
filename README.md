@@ -1,27 +1,55 @@
-你好 🐎, I'm Mustang Wu
+<h1 align="center">你好 🐎, I'm Mustang Wu</h1>
+<p align="center">🚀 A curious full-stack developer & creative technologist based in Melbourne</p>
 
-🚀 A self-taught and curious full stack developer currently living in Melbourne, Australia
+---
 
-🎓 Studying IT at Monash University (graduating June-2026)  
-💻 Currently focused on **full-stack development**, **cloud computing**, and **AI for good**
+### 👩‍💻 About Me
 
-✨ I'm passionate about:  
-- Combining **humanity** and **technology**  
-- Hacking on creative tools at **hackathons**  
-- Exploring **interactive design**, **games**, and **digital storytelling**
+- 🎓 Master of IT @ Monash University (Graduating June 2025)  
+- 🌏 Previously majored in humanities, now exploring how **technology empowers human expression**
+- 💻 Focused on **Full-Stack Development**, **Cloud Computing (AWS)**, and **AI for good**
+- 🎮 Interested in game-like interfaces, digital storytelling, and creative tools
 
-🔧 Languages & Tools:
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" />
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
-<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
-... add more as you like
+---
 
-📬 How to reach me:  
-[My Portfolio](https://mustang-portfolio-website.vercel.app/)  
-[My LinkedIn](https://www.linkedin.com/in/mustangwu05042001/) 
-jx010405@gmail.com
+### 💼 What I’ve Been Up To
 
-> “Where humanity meets technology, I create my own path.”
+- 👩‍🔬 Research Intern @ Exertion Games Lab — building interactive devices for para-surfing
+- 🧠 Hackathon Winner x3 — fast learning, pitching, and shipping high-impact projects
+- 🏢 Part-time at Zimmermann, blending tech & fashion service
+- 🧰 Previous work in the **real estate** industry with 5i5j (我爱我家)
+
+---
+
+### 🛠 Tech Stack & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+
+---
+
+### 🎨 Fun Facts
+
+- ✈️ Originally from China, now chasing tech dreams in Australia  
+- 🐱 A cat lover & pixel art fan  
+- ☕ My go-to coffee is a **long black with a splash of oat milk**
+- ✨ Motto: *Where humanity meets technology, I create my own path*
+
+---
+
+### 🔗 Connect with Me
+
+📫 [Portfolio Website](https://mustang-portfolio-website.vercel.app/)  
+📧 jx010405@gmail.com  
+🧑‍💼 [LinkedIn](https://www.linkedin.com/in/mustangwu05042001/)
+
+---
