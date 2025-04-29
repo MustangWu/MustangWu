@@ -39,7 +39,7 @@
 
 ### 🎨 Fun Facts
 
-- ✈️ Originally from China, now chasing tech dreams in Australia  
+- ✈️ Originally from China, now living in Melbourne, Australia  
 - 🎸 Unusual busker in melbourne central
 - 🎬 Actress&writer for short film "Lost in Shanghai(2022)" which won hishorts! film festival 2023, same name feature is currently in development.
 - ✨ *Where humanity meets technology, I create my own path*
