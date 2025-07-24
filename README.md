@@ -14,6 +14,7 @@
 
 ### 💼 What I’ve Been Up To
 
+- 💻 Software Engineer @ Edrolo (2025.6-Present)
 - 👩‍🔬 Research Intern @ Exertion Games Lab, building interactive devices for para-surfing
 - 🧠 Hackathon Team Lead x3, fast learning, pitching, and shipping high-impact projects
 - 🏢 Part-time at Zimmermann, blending tech & fashion service
@@ -53,3 +54,4 @@
 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/mustangwu05042001/)
 
 ---
+
